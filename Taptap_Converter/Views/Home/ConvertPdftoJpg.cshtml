@@ -1,0 +1,68 @@
+﻿@{
+    ViewData["Title"] = "Upload de Document";
+}
+
+<h2 class="text-center mt-4">Téléverser un Document</h2>
+<hr />
+
+<div class="container">
+    <div class="row justify-content-center">
+        <div class="col-md-8">
+            <form method="post" enctype="multipart/form-data" asp-action="ConvertPdftoJpg" asp-controller="Home">
+                <div class="mb-3">
+                    <label for="fileUpload" class="form-label">Choisir un fichier en Pdf</label>
+                    <input type="file" name="file" id="fileUpload" class="form-control" required />
+                </div>
+                <button type="submit" class="btn btn-primary w-100">Convertir</button>
+            </form>
+        </div>
+    </div>
+
+</div>
+    <!-- Drag and Drop -->
+    <div class="row justify-content-center mt-4 p-lg-5">
+        <div class="col-12 col-lg-10">
+            <div id="dropZone" class="border rounded p-5 text-center bg-light">
+                <p class="lead">Glissez et déposez votre fichier ici</p>
+                <p class="text-muted">ou cliquez pour sélectionner un fichier</p>
+                <input type="file" id="hiddenFileInput" class="d-none" />
+            </div>
+        </div>
+    </div>
+
+
+@section Scripts {
+    <script>
+        document.addEventListener("DOMContentLoaded", function () {
+            let dropZone = document.getElementById("dropZone");
+            let fileInput = document.getElementById("fileUpload");
+            let hiddenInput = document.getElementById("hiddenFileInput");
+
+            dropZone.addEventListener("click", function () {
+                hiddenInput.click();
+            });
+
+            dropZone.addEventListener("dragover", function (e) {
+                e.preventDefault();
+                dropZone.classList.add("border-primary");
+            });
+
+            dropZone.addEventListener("dragleave", function () {
+                dropZone.classList.remove("border-primary");
+            });
+
+            dropZone.addEventListener("drop", function (e) {
+                e.preventDefault();
+                dropZone.classList.remove("border-primary");
+                let files = e.dataTransfer.files;
+                if (files.length > 0) {
+                    fileInput.files = files;
+                }
+            });
+
+            hiddenInput.addEventListener("change", function () {
+                fileInput.files = hiddenInput.files;
+            });
+        });
+    </script>
+}

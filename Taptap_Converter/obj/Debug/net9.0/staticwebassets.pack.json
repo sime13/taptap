@@ -1,0 +1,521 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\simed\\OneDrive\\Documentos\\Taptap Projects\\Taptap_Converter\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\Taptap_Converter.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Taptap_Converter.r4n2ib3i2x.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\simed\\OneDrive\\Documentos\\Taptap Projects\\Taptap_Converter\\wwwroot\\assets\\favicon.ico",
+      "PackagePath": "staticwebassets\\assets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\simed\\OneDrive\\Documentos\\Taptap Projects\\Taptap_Converter\\wwwroot\\assets\\img\\bg-masthead.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\bg-masthead.jpg"
+    },
+    {
+      "Id": "C:\\Users\\simed\\OneDrive\\Documentos\\Taptap Projects\\Taptap_Converter\\wwwroot\\assets\\img\\portfolio\\fullsize\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio\\fullsize\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\simed\\OneDrive\\Documentos\\Taptap Projects\\Taptap_Converter\\wwwroot\\assets\\img\\portfolio\\fullsize\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio\\fullsize\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\simed\\OneDrive\\Documentos\\Taptap Projects\\Taptap_Converter\\wwwroot\\assets\\img\\portfolio\\fullsize\\3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio\\fullsize\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\simed\\OneDrive\\Documentos\\Taptap Projects\\Taptap_Converter\\wwwroot\\assets\\img\\portfolio\\fullsize\\4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio\\fullsize\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\simed\\OneDrive\\Documentos\\Taptap Projects\\Taptap_Converter\\wwwroot\\assets\\img\\portfolio\\fullsize\\5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio\\fullsize\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\simed\\OneDrive\\Documentos\\Taptap Projects\\Taptap_Converter\\wwwroot\\assets\\img\\portfolio\\fullsize\\6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio\\fullsize\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\simed\\OneDrive\\Documentos\\Taptap Projects\\Taptap_Converter\\wwwroot\\assets\\img\\portfolio\\thumbnails\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio\\thumbnails\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\simed\\OneDrive\\Documentos\\Taptap Projects\\Taptap_Converter\\wwwroot\\assets\\img\\portfolio\\thumbnails\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio\\thumbnails\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\simed\\OneDrive\\Documentos\\Taptap Projects\\Taptap_Converter\\wwwroot\\assets\\img\\portfolio\\thumbnails\\3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio\\thumbnails\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\simed\\OneDrive\\Documentos\\Taptap Projects\\Taptap_Converter\\wwwroot\\assets\\img\\portfolio\\thumbnails\\4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio\\thumbnails\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\simed\\OneDrive\\Documentos\\Taptap Projects\\Taptap_Converter\\wwwroot\\assets\\img\\portfolio\\thumbnails\\5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio\\thumbnails\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\simed\\OneDrive\\Documentos\\Taptap Projects\\Taptap_Converter\\wwwroot\\assets\\img\\portfolio\\thumbnails\\6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio\\thumbnails\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\simed\\OneDrive\\Documentos\\Taptap Projects\\Taptap_Converter\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\simed\\OneDrive\\Documentos\\Taptap Projects\\Taptap_Converter\\wwwroot\\css\\styles.css",
+      "PackagePath": "staticwebassets\\css\\styles.css"
+    },
+    {
+      "Id": "C:\\Users\\simed\\OneDrive\\Documentos\\Taptap Projects\\Taptap_Converter\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\simed\\OneDrive\\Documentos\\Taptap Projects\\Taptap_Converter\\wwwroot\\js\\scripts.js",
+      "PackagePath": "staticwebassets\\js\\scripts.js"
+    },
+    {
+      "Id": "C:\\Users\\simed\\OneDrive\\Documentos\\Taptap Projects\\Taptap_Converter\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\simed\\OneDrive\\Documentos\\Taptap Projects\\Taptap_Converter\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\simed\\OneDrive\\Documentos\\Taptap Projects\\Taptap_Converter\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\simed\\OneDrive\\Documentos\\Taptap Projects\\Taptap_Converter\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\simed\\OneDrive\\Documentos\\Taptap Projects\\Taptap_Converter\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\simed\\OneDrive\\Documentos\\Taptap Projects\\Taptap_Converter\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\simed\\OneDrive\\Documentos\\Taptap Projects\\Taptap_Converter\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\simed\\OneDrive\\Documentos\\Taptap Projects\\Taptap_Converter\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\simed\\OneDrive\\Documentos\\Taptap Projects\\Taptap_Converter\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\simed\\OneDrive\\Documentos\\Taptap Projects\\Taptap_Converter\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\simed\\OneDrive\\Documentos\\Taptap Projects\\Taptap_Converter\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\simed\\OneDrive\\Documentos\\Taptap Projects\\Taptap_Converter\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\simed\\OneDrive\\Documentos\\Taptap Projects\\Taptap_Converter\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\simed\\OneDrive\\Documentos\\Taptap Projects\\Taptap_Converter\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\simed\\OneDrive\\Documentos\\Taptap Projects\\Taptap_Converter\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\simed\\OneDrive\\Documentos\\Taptap Projects\\Taptap_Converter\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\simed\\OneDrive\\Documentos\\Taptap Projects\\Taptap_Converter\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\simed\\OneDrive\\Documentos\\Taptap Projects\\Taptap_Converter\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\simed\\OneDrive\\Documentos\\Taptap Projects\\Taptap_Converter\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\simed\\OneDrive\\Documentos\\Taptap Projects\\Taptap_Converter\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\simed\\OneDrive\\Documentos\\Taptap Projects\\Taptap_Converter\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\simed\\OneDrive\\Documentos\\Taptap Projects\\Taptap_Converter\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\simed\\OneDrive\\Documentos\\Taptap Projects\\Taptap_Converter\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\simed\\OneDrive\\Documentos\\Taptap Projects\\Taptap_Converter\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\simed\\OneDrive\\Documentos\\Taptap Projects\\Taptap_Converter\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\simed\\OneDrive\\Documentos\\Taptap Projects\\Taptap_Converter\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\simed\\OneDrive\\Documentos\\Taptap Projects\\Taptap_Converter\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\simed\\OneDrive\\Documentos\\Taptap Projects\\Taptap_Converter\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\simed\\OneDrive\\Documentos\\Taptap Projects\\Taptap_Converter\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\simed\\OneDrive\\Documentos\\Taptap Projects\\Taptap_Converter\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\simed\\OneDrive\\Documentos\\Taptap Projects\\Taptap_Converter\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\simed\\OneDrive\\Documentos\\Taptap Projects\\Taptap_Converter\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\simed\\OneDrive\\Documentos\\Taptap Projects\\Taptap_Converter\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\simed\\OneDrive\\Documentos\\Taptap Projects\\Taptap_Converter\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\simed\\OneDrive\\Documentos\\Taptap Projects\\Taptap_Converter\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\simed\\OneDrive\\Documentos\\Taptap Projects\\Taptap_Converter\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\simed\\OneDrive\\Documentos\\Taptap Projects\\Taptap_Converter\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\simed\\OneDrive\\Documentos\\Taptap Projects\\Taptap_Converter\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\simed\\OneDrive\\Documentos\\Taptap Projects\\Taptap_Converter\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\simed\\OneDrive\\Documentos\\Taptap Projects\\Taptap_Converter\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\simed\\OneDrive\\Documentos\\Taptap Projects\\Taptap_Converter\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\simed\\OneDrive\\Documentos\\Taptap Projects\\Taptap_Converter\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\simed\\OneDrive\\Documentos\\Taptap Projects\\Taptap_Converter\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\simed\\OneDrive\\Documentos\\Taptap Projects\\Taptap_Converter\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\simed\\OneDrive\\Documentos\\Taptap Projects\\Taptap_Converter\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\simed\\OneDrive\\Documentos\\Taptap Projects\\Taptap_Converter\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\simed\\OneDrive\\Documentos\\Taptap Projects\\Taptap_Converter\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\simed\\OneDrive\\Documentos\\Taptap Projects\\Taptap_Converter\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\simed\\OneDrive\\Documentos\\Taptap Projects\\Taptap_Converter\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\simed\\OneDrive\\Documentos\\Taptap Projects\\Taptap_Converter\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\simed\\OneDrive\\Documentos\\Taptap Projects\\Taptap_Converter\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\simed\\OneDrive\\Documentos\\Taptap Projects\\Taptap_Converter\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\simed\\OneDrive\\Documentos\\Taptap Projects\\Taptap_Converter\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\simed\\OneDrive\\Documentos\\Taptap Projects\\Taptap_Converter\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\simed\\OneDrive\\Documentos\\Taptap Projects\\Taptap_Converter\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\simed\\OneDrive\\Documentos\\Taptap Projects\\Taptap_Converter\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\simed\\OneDrive\\Documentos\\Taptap Projects\\Taptap_Converter\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\simed\\OneDrive\\Documentos\\Taptap Projects\\Taptap_Converter\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\simed\\OneDrive\\Documentos\\Taptap Projects\\Taptap_Converter\\wwwroot\\lib\\jquery\\dist\\jquery.slim.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.js"
+    },
+    {
+      "Id": "C:\\Users\\simed\\OneDrive\\Documentos\\Taptap Projects\\Taptap_Converter\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.js"
+    },
+    {
+      "Id": "C:\\Users\\simed\\OneDrive\\Documentos\\Taptap Projects\\Taptap_Converter\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.map"
+    },
+    {
+      "Id": "C:\\Users\\simed\\OneDrive\\Documentos\\Taptap Projects\\Taptap_Converter\\wwwroot\\lib\\pdfium-v8-win-x64.tgz",
+      "PackagePath": "staticwebassets\\lib\\pdfium-v8-win-x64.tgz"
+    },
+    {
+      "Id": "C:\\Users\\simed\\OneDrive\\Documentos\\Taptap Projects\\Taptap_Converter\\wwwroot\\lib\\pdfium\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\pdfium"
+    },
+    {
+      "Id": "C:\\Users\\simed\\OneDrive\\Documentos\\Taptap Projects\\Taptap_Converter\\wwwroot\\lib\\pdfium\\PDFiumConfig.cmake",
+      "PackagePath": "staticwebassets\\lib\\pdfium\\PDFiumConfig.cmake"
+    },
+    {
+      "Id": "C:\\Users\\simed\\OneDrive\\Documentos\\Taptap Projects\\Taptap_Converter\\wwwroot\\lib\\pdfium\\VERSION",
+      "PackagePath": "staticwebassets\\lib\\pdfium"
+    },
+    {
+      "Id": "C:\\Users\\simed\\OneDrive\\Documentos\\Taptap Projects\\Taptap_Converter\\wwwroot\\lib\\pdfium\\args.gn",
+      "PackagePath": "staticwebassets\\lib\\pdfium\\args.gn"
+    },
+    {
+      "Id": "C:\\Users\\simed\\OneDrive\\Documentos\\Taptap Projects\\Taptap_Converter\\wwwroot\\lib\\pdfium\\bin\\pdfium.dll",
+      "PackagePath": "staticwebassets\\lib\\pdfium\\bin\\pdfium.dll"
+    },
+    {
+      "Id": "C:\\Users\\simed\\OneDrive\\Documentos\\Taptap Projects\\Taptap_Converter\\wwwroot\\lib\\pdfium\\include\\cpp\\fpdf_deleters.h",
+      "PackagePath": "staticwebassets\\lib\\pdfium\\include\\cpp\\fpdf_deleters.h"
+    },
+    {
+      "Id": "C:\\Users\\simed\\OneDrive\\Documentos\\Taptap Projects\\Taptap_Converter\\wwwroot\\lib\\pdfium\\include\\cpp\\fpdf_scopers.h",
+      "PackagePath": "staticwebassets\\lib\\pdfium\\include\\cpp\\fpdf_scopers.h"
+    },
+    {
+      "Id": "C:\\Users\\simed\\OneDrive\\Documentos\\Taptap Projects\\Taptap_Converter\\wwwroot\\lib\\pdfium\\include\\fpdf_annot.h",
+      "PackagePath": "staticwebassets\\lib\\pdfium\\include\\fpdf_annot.h"
+    },
+    {
+      "Id": "C:\\Users\\simed\\OneDrive\\Documentos\\Taptap Projects\\Taptap_Converter\\wwwroot\\lib\\pdfium\\include\\fpdf_attachment.h",
+      "PackagePath": "staticwebassets\\lib\\pdfium\\include\\fpdf_attachment.h"
+    },
+    {
+      "Id": "C:\\Users\\simed\\OneDrive\\Documentos\\Taptap Projects\\Taptap_Converter\\wwwroot\\lib\\pdfium\\include\\fpdf_catalog.h",
+      "PackagePath": "staticwebassets\\lib\\pdfium\\include\\fpdf_catalog.h"
+    },
+    {
+      "Id": "C:\\Users\\simed\\OneDrive\\Documentos\\Taptap Projects\\Taptap_Converter\\wwwroot\\lib\\pdfium\\include\\fpdf_dataavail.h",
+      "PackagePath": "staticwebassets\\lib\\pdfium\\include\\fpdf_dataavail.h"
+    },
+    {
+      "Id": "C:\\Users\\simed\\OneDrive\\Documentos\\Taptap Projects\\Taptap_Converter\\wwwroot\\lib\\pdfium\\include\\fpdf_doc.h",
+      "PackagePath": "staticwebassets\\lib\\pdfium\\include\\fpdf_doc.h"
+    },
+    {
+      "Id": "C:\\Users\\simed\\OneDrive\\Documentos\\Taptap Projects\\Taptap_Converter\\wwwroot\\lib\\pdfium\\include\\fpdf_edit.h",
+      "PackagePath": "staticwebassets\\lib\\pdfium\\include\\fpdf_edit.h"
+    },
+    {
+      "Id": "C:\\Users\\simed\\OneDrive\\Documentos\\Taptap Projects\\Taptap_Converter\\wwwroot\\lib\\pdfium\\include\\fpdf_ext.h",
+      "PackagePath": "staticwebassets\\lib\\pdfium\\include\\fpdf_ext.h"
+    },
+    {
+      "Id": "C:\\Users\\simed\\OneDrive\\Documentos\\Taptap Projects\\Taptap_Converter\\wwwroot\\lib\\pdfium\\include\\fpdf_flatten.h",
+      "PackagePath": "staticwebassets\\lib\\pdfium\\include\\fpdf_flatten.h"
+    },
+    {
+      "Id": "C:\\Users\\simed\\OneDrive\\Documentos\\Taptap Projects\\Taptap_Converter\\wwwroot\\lib\\pdfium\\include\\fpdf_formfill.h",
+      "PackagePath": "staticwebassets\\lib\\pdfium\\include\\fpdf_formfill.h"
+    },
+    {
+      "Id": "C:\\Users\\simed\\OneDrive\\Documentos\\Taptap Projects\\Taptap_Converter\\wwwroot\\lib\\pdfium\\include\\fpdf_fwlevent.h",
+      "PackagePath": "staticwebassets\\lib\\pdfium\\include\\fpdf_fwlevent.h"
+    },
+    {
+      "Id": "C:\\Users\\simed\\OneDrive\\Documentos\\Taptap Projects\\Taptap_Converter\\wwwroot\\lib\\pdfium\\include\\fpdf_javascript.h",
+      "PackagePath": "staticwebassets\\lib\\pdfium\\include\\fpdf_javascript.h"
+    },
+    {
+      "Id": "C:\\Users\\simed\\OneDrive\\Documentos\\Taptap Projects\\Taptap_Converter\\wwwroot\\lib\\pdfium\\include\\fpdf_ppo.h",
+      "PackagePath": "staticwebassets\\lib\\pdfium\\include\\fpdf_ppo.h"
+    },
+    {
+      "Id": "C:\\Users\\simed\\OneDrive\\Documentos\\Taptap Projects\\Taptap_Converter\\wwwroot\\lib\\pdfium\\include\\fpdf_progressive.h",
+      "PackagePath": "staticwebassets\\lib\\pdfium\\include\\fpdf_progressive.h"
+    },
+    {
+      "Id": "C:\\Users\\simed\\OneDrive\\Documentos\\Taptap Projects\\Taptap_Converter\\wwwroot\\lib\\pdfium\\include\\fpdf_save.h",
+      "PackagePath": "staticwebassets\\lib\\pdfium\\include\\fpdf_save.h"
+    },
+    {
+      "Id": "C:\\Users\\simed\\OneDrive\\Documentos\\Taptap Projects\\Taptap_Converter\\wwwroot\\lib\\pdfium\\include\\fpdf_searchex.h",
+      "PackagePath": "staticwebassets\\lib\\pdfium\\include\\fpdf_searchex.h"
+    },
+    {
+      "Id": "C:\\Users\\simed\\OneDrive\\Documentos\\Taptap Projects\\Taptap_Converter\\wwwroot\\lib\\pdfium\\include\\fpdf_signature.h",
+      "PackagePath": "staticwebassets\\lib\\pdfium\\include\\fpdf_signature.h"
+    },
+    {
+      "Id": "C:\\Users\\simed\\OneDrive\\Documentos\\Taptap Projects\\Taptap_Converter\\wwwroot\\lib\\pdfium\\include\\fpdf_structtree.h",
+      "PackagePath": "staticwebassets\\lib\\pdfium\\include\\fpdf_structtree.h"
+    },
+    {
+      "Id": "C:\\Users\\simed\\OneDrive\\Documentos\\Taptap Projects\\Taptap_Converter\\wwwroot\\lib\\pdfium\\include\\fpdf_sysfontinfo.h",
+      "PackagePath": "staticwebassets\\lib\\pdfium\\include\\fpdf_sysfontinfo.h"
+    },
+    {
+      "Id": "C:\\Users\\simed\\OneDrive\\Documentos\\Taptap Projects\\Taptap_Converter\\wwwroot\\lib\\pdfium\\include\\fpdf_text.h",
+      "PackagePath": "staticwebassets\\lib\\pdfium\\include\\fpdf_text.h"
+    },
+    {
+      "Id": "C:\\Users\\simed\\OneDrive\\Documentos\\Taptap Projects\\Taptap_Converter\\wwwroot\\lib\\pdfium\\include\\fpdf_thumbnail.h",
+      "PackagePath": "staticwebassets\\lib\\pdfium\\include\\fpdf_thumbnail.h"
+    },
+    {
+      "Id": "C:\\Users\\simed\\OneDrive\\Documentos\\Taptap Projects\\Taptap_Converter\\wwwroot\\lib\\pdfium\\include\\fpdf_transformpage.h",
+      "PackagePath": "staticwebassets\\lib\\pdfium\\include\\fpdf_transformpage.h"
+    },
+    {
+      "Id": "C:\\Users\\simed\\OneDrive\\Documentos\\Taptap Projects\\Taptap_Converter\\wwwroot\\lib\\pdfium\\include\\fpdfview.h",
+      "PackagePath": "staticwebassets\\lib\\pdfium\\include\\fpdfview.h"
+    },
+    {
+      "Id": "C:\\Users\\simed\\OneDrive\\Documentos\\Taptap Projects\\Taptap_Converter\\wwwroot\\lib\\pdfium\\lib\\pdfium.dll.lib",
+      "PackagePath": "staticwebassets\\lib\\pdfium\\lib\\pdfium.dll.lib"
+    },
+    {
+      "Id": "C:\\Users\\simed\\OneDrive\\Documentos\\Taptap Projects\\Taptap_Converter\\wwwroot\\uploads\\20250117-190520.jpg",
+      "PackagePath": "staticwebassets\\uploads\\20250117-190520.jpg"
+    },
+    {
+      "Id": "C:\\Users\\simed\\OneDrive\\Documentos\\Taptap Projects\\Taptap_Converter\\wwwroot\\uploads\\20250117-190520.pdf",
+      "PackagePath": "staticwebassets\\uploads\\20250117-190520.pdf"
+    },
+    {
+      "Id": "C:\\Users\\simed\\OneDrive\\Documentos\\Taptap Projects\\Taptap_Converter\\wwwroot\\uploads\\20250117-190520.zip",
+      "PackagePath": "staticwebassets\\uploads\\20250117-190520.zip"
+    },
+    {
+      "Id": "C:\\Users\\simed\\OneDrive\\Documentos\\Taptap Projects\\Taptap_Converter\\wwwroot\\uploads\\20250117-190520\\page_1.jpg",
+      "PackagePath": "staticwebassets\\uploads\\20250117-190520\\page_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\simed\\OneDrive\\Documentos\\Taptap Projects\\Taptap_Converter\\wwwroot\\uploads\\20250117-190520\\page_2.jpg",
+      "PackagePath": "staticwebassets\\uploads\\20250117-190520\\page_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\simed\\OneDrive\\Documentos\\Taptap Projects\\Taptap_Converter\\wwwroot\\uploads\\20250128-205251.jpg",
+      "PackagePath": "staticwebassets\\uploads\\20250128-205251.jpg"
+    },
+    {
+      "Id": "C:\\Users\\simed\\OneDrive\\Documentos\\Taptap Projects\\Taptap_Converter\\wwwroot\\uploads\\20250128-205251.pdf",
+      "PackagePath": "staticwebassets\\uploads\\20250128-205251.pdf"
+    },
+    {
+      "Id": "C:\\Users\\simed\\OneDrive\\Documentos\\Taptap Projects\\Taptap_Converter\\wwwroot\\uploads\\CPF.jpg",
+      "PackagePath": "staticwebassets\\uploads\\CPF.jpg"
+    },
+    {
+      "Id": "C:\\Users\\simed\\OneDrive\\Documentos\\Taptap Projects\\Taptap_Converter\\wwwroot\\uploads\\CPF.pdf",
+      "PackagePath": "staticwebassets\\uploads\\CPF.pdf"
+    },
+    {
+      "Id": "C:\\Users\\simed\\OneDrive\\Documentos\\Taptap Projects\\Taptap_Converter\\wwwroot\\uploads\\CPF.zip",
+      "PackagePath": "staticwebassets\\uploads\\CPF.zip"
+    },
+    {
+      "Id": "C:\\Users\\simed\\OneDrive\\Documentos\\Taptap Projects\\Taptap_Converter\\wwwroot\\uploads\\CPF\\page_1.jpg",
+      "PackagePath": "staticwebassets\\uploads\\CPF\\page_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\simed\\OneDrive\\Documentos\\Taptap Projects\\Taptap_Converter\\wwwroot\\uploads\\WhatsApp Scan 2025-02-10 at 22.25.51.jpg",
+      "PackagePath": "staticwebassets\\uploads\\WhatsApp Scan 2025-02-10 at 22.25.51.jpg"
+    },
+    {
+      "Id": "C:\\Users\\simed\\OneDrive\\Documentos\\Taptap Projects\\Taptap_Converter\\wwwroot\\uploads\\WhatsApp Scan 2025-02-10 at 22.25.51.pdf",
+      "PackagePath": "staticwebassets\\uploads\\WhatsApp Scan 2025-02-10 at 22.25.51.pdf"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.Taptap_Converter.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.Taptap_Converter.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.Taptap_Converter.props",
+      "PackagePath": "build\\Taptap_Converter.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.Taptap_Converter.props",
+      "PackagePath": "buildMultiTargeting\\Taptap_Converter.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.Taptap_Converter.props",
+      "PackagePath": "buildTransitive\\Taptap_Converter.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

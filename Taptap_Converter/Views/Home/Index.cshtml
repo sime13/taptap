@@ -1,0 +1,266 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+       
+    </head>
+<body id="page-top container-fluid bg-light py-5">
+        <!-- Navigation
+        <nav class="navbar navbar-expand-lg navbar-light fixed-top py-3" id="mainNav">
+            <div class="container px-4 px-lg-5">
+                <a class="navbar-brand" href="#page-top">Taptap Converter</a>
+                <button class="navbar-toggler navbar-toggler-right" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
+                <div class="collapse navbar-collapse" id="navbarResponsive">
+                    <ul class="navbar-nav ms-auto my-2 my-lg-0">
+                        <li class="nav-item"><a class="nav-link" href="#about">About</a></li>
+                        <li class="nav-item"><a class="nav-link" href="#services">Services</a></li>
+                      
+                        <li class="nav-item"><a class="nav-link" href="#contact">Contact</a></li>
+                    </ul>
+                </div>
+            </div>
+    </nav>-->
+        <!-- Masthead-->
+        <header class="masthead">
+            <div class="container px-4 px-lg-5 h-100">
+                <div class="row gx-4 gx-lg-5 h-100 align-items-center justify-content-center text-center">
+                    <div class="col-lg-8 align-self-end">
+                    <h1 class="text-white font-weight-bold">
+                        L`un des meilleurs sites pour manipuler vos document
+
+                    </h1>
+                        <hr class="divider" />
+                    </div>
+                    <div class="col-lg-8 align-self-baseline">
+                    <p class="text-white-75 mb-5">Convertissez vos documents rapidement et facilement en quelques clics. Que ce soit un PDF, Word ou autre format, notre outil vous offre une conversion rapide et de qualité. Essayez dès maintenant !</p>
+                        <a class="btn btn-primary btn-xl" href="#services">Commencer a Convertir</a>
+                    </div>
+                </div>
+            </div>
+        </header>
+        <!-- About
+        <section class="page-section bg-primary" id="about">
+            <div class="container px-4 px-lg-5">
+                <div class="row gx-4 gx-lg-5 justify-content-center">
+                    <div class="col-lg-8 text-center">
+                        <h2 class="text-white mt-0">We've got what you need!</h2>
+                        <hr class="divider divider-light" />
+                        <p class="text-white-75 mb-4">L`un des meilleurs sites pour manipuler vos document</p>
+                        <a class="btn btn-light btn-xl" href="#services">Get Started!</a>
+                    </div>
+                </div>
+            </div>
+        </section>
+    -->
+        <!-- Services-->
+    <section class="page-section" id="services">
+        <div class="container px-4 px-lg-5">
+            <h2 class="text-center mt-0">Convertir vos documents</h2>
+            <hr class="divider" />
+            <div class="row gx-4 gx-lg-5">
+                <!-- PDF to JPG -->
+                <div class="col-lg-3 col-md-6 text-center">
+                    <a asp-action="ConvertPdftoJpg" asp-controller="Home" class="text-decoration-none d-block">
+                        <div class="mt-5">
+                            <div class="mb-2">
+                                <i class="bi bi-file-earmark-pdf fs-1 text-primary"></i>
+                            </div>
+                            <h3 class="h4 mb-2">PDF to JPG</h3>
+                            <p class="text-muted mb-0">Convertir un PDF en images JPG</p>
+                        </div>
+                    </a>
+                </div>
+
+                <!-- JPG to PDF -->
+                <div class="col-lg-3 col-md-6 text-center">
+                    <a href="#" class="text-decoration-none d-block">
+                        <div class="mt-5">
+                            <div class="mb-2">
+                                <i class="bi bi-filetype-jpg fs-1 text-primary"></i>
+                            </div>
+                            <h3 class="h4 mb-2">JPG to PDF</h3>
+                            <p class="text-muted mb-0">Convertir des images JPG en PDF</p>
+                        </div>
+                    </a>
+                </div>
+
+                <!-- PDF to Word -->
+                <div class="col-lg-3 col-md-6 text-center">
+                    <a href="#" class="text-decoration-none d-block">
+                        <div class="mt-5">
+                            <div class="mb-2">
+                                <i class="bi bi-file-earmark-word fs-1 text-primary"></i>
+                            </div>
+                            <h3 class="h4 mb-2">PDF to Word</h3>
+                            <p class="text-muted mb-0">Convertir un PDF en Word (.docx)</p>
+                        </div>
+                    </a>
+                </div>
+
+                <!-- Word to PDF -->
+                <div class="col-lg-3 col-md-6 text-center">
+                    <a href="#" class="text-decoration-none d-block">
+                        <div class="mt-5">
+                            <div class="mb-2">
+                                <i class="bi bi-file-pdf-fill fs-1 text-primary"></i>
+                            </div>
+                            <h3 class="h4 mb-2">Word to PDF</h3>
+                            <p class="text-muted mb-0">Convertir un Word en PDF</p>
+                        </div>
+                    </a>
+                </div>
+
+                <!-- Excel to PDF -->
+                <div class="col-lg-3 col-md-6 text-center">
+                    <a href="#" class="text-decoration-none d-block">
+                        <div class="mt-5">
+                            <div class="mb-2">
+                                <i class="bi bi-file-earmark-excel fs-1 text-success"></i>
+                            </div>
+                            <h3 class="h4 mb-2">Excel to PDF</h3>
+                            <p class="text-muted mb-0">Convertir un Excel (.xlsx) en PDF</p>
+                        </div>
+                    </a>
+                </div>
+
+                <!-- PDF to Excel -->
+                <div class="col-lg-3 col-md-6 text-center">
+                    <a href="#" class="text-decoration-none d-block">
+                        <div class="mt-5">
+                            <div class="mb-2">
+                                <i class="bi bi-file-earmark-spreadsheet fs-1 text-success"></i>
+                            </div>
+                            <h3 class="h4 mb-2">PDF to Excel</h3>
+                            <p class="text-muted mb-0">Convertir un PDF en fichier Excel</p>
+                        </div>
+                    </a>
+                </div>
+
+                <!-- PowerPoint to PDF -->
+                <div class="col-lg-3 col-md-6 text-center">
+                    <a href="#" class="text-decoration-none d-block">
+                        <div class="mt-5">
+                            <div class="mb-2">
+                                <i class="bi bi-file-earmark-ppt fs-1 text-danger"></i>
+                            </div>
+                            <h3 class="h4 mb-2">PowerPoint to PDF</h3>
+                            <p class="text-muted mb-0">Convertir un PowerPoint en PDF</p>
+                        </div>
+                    </a>
+                </div>
+
+                <!-- PDF to PowerPoint -->
+                <div class="col-lg-3 col-md-6 text-center">
+                    <a href="#" class="text-decoration-none d-block">
+                        <div class="mt-5">
+                            <div class="mb-2">
+                                <i class="bi bi-file-earmark-ppt-fill fs-1 text-danger"></i>
+                            </div>
+                            <h3 class="h4 mb-2">PDF to PowerPoint</h3>
+                            <p class="text-muted mb-0">Convertir un PDF en PowerPoint</p>
+                        </div>
+                    </a>
+                </div>
+
+                <!-- TXT to PDF -->
+                <div class="col-lg-3 col-md-6 text-center">
+                    <a href="#" class="text-decoration-none d-block">
+                        <div class="mt-5">
+                            <div class="mb-2">
+                                <i class="bi bi-file-text fs-1 text-secondary"></i>
+                            </div>
+                            <h3 class="h4 mb-2">TXT to PDF</h3>
+                            <p class="text-muted mb-0">Convertir un fichier texte en PDF</p>
+                        </div>
+                    </a>
+                </div>
+
+                <!-- PDF to TXT -->
+                <div class="col-lg-3 col-md-6 text-center">
+                    <a href="#" class="text-decoration-none d-block">
+                        <div class="mt-5">
+                            <div class="mb-2">
+                                <i class="bi bi-file-earmark-text fs-1 text-secondary"></i>
+                            </div>
+                            <h3 class="h4 mb-2">PDF to TXT</h3>
+                            <p class="text-muted mb-0">Extraire du texte d’un PDF</p>
+                        </div>
+                    </a>
+                </div>
+
+                <!-- EPUB to PDF -->
+                <div class="col-lg-3 col-md-6 text-center">
+                    <a href="#" class="text-decoration-none d-block">
+                        <div class="mt-5">
+                            <div class="mb-2">
+                                <i class="bi bi-book fs-1 text-warning"></i>
+                            </div>
+                            <h3 class="h4 mb-2">EPUB to PDF</h3>
+                            <p class="text-muted mb-0">Convertir un eBook EPUB en PDF</p>
+                        </div>
+                    </a>
+                </div>
+
+                <!-- PDF to EPUB -->
+                <div class="col-lg-3 col-md-6 text-center">
+                    <a href="#" class="text-decoration-none d-block">
+                        <div class="mt-5">
+                            <div class="mb-2">
+                                <i class="bi bi-book-fill fs-1 text-warning"></i>
+                            </div>
+                            <h3 class="h4 mb-2">PDF to EPUB</h3>
+                            <p class="text-muted mb-0">Convertir un PDF en livre EPUB</p>
+                        </div>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+      
+        <!-- Call to action-->
+        <section class="page-section bg-dark text-white">
+            <div class="container px-4 px-lg-5 text-center">
+                <h2 class="mb-4">Consulter les autres outils de Taptap Collection. nous avons d`autres outils plus utiles et interressants!</h2>
+                <a class="btn btn-light btn-xl" href="#">Consulter!</a>
+            </div>
+        </section>
+        <!-- Contact-->
+        <section class="page-section" id="contact">
+            <div class="container px-4 px-lg-5">
+                <div class="row gx-4 gx-lg-5 justify-content-center">
+                    <div class="col-lg-8 col-xl-6 text-center">
+                        <h2 class="mt-0">Let's Get In Touch!</h2>
+                        <hr class="divider" />
+                        <p class="text-muted mb-5">Ready to start your next project with us? Send us a messages and we will get back to you as soon as possible!</p>
+                    </div>
+                </div>
+                
+                </div>
+                <div class="row gx-4 gx-lg-5 justify-content-center">
+                    <div class="col-lg-4 text-center mb-5 mb-lg-0">
+                        <i class="bi-phone fs-2 mb-3 text-muted"></i>
+                        <div>+1 (555) 123-4567</div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- Footer-->
+        
+        <!-- Bootstrap core JS-->
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"></script>
+        <!-- SimpleLightbox plugin JS-->
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/SimpleLightbox/2.1.0/simpleLightbox.min.js"></script>
+        <!-- Core theme JS-->
+        <script src="js/scripts.js"></script>
+        <!-- * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *-->
+        <!-- * *                               SB Forms JS                               * *-->
+        <!-- * * Activate your form at https://startbootstrap.com/solution/contact-forms * *-->
+        <!-- * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *-->
+        <script src="https://cdn.startbootstrap.com/sb-forms-latest.js"></script>
+    </body>
+</html>

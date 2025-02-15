@@ -1,0 +1,213 @@
+C:\Users\simed\OneDrive\Documentos\Taptap Projects\Taptap_Converter\wwwroot\lib\pdfium\include\fpdf_annot.h
+C:\Users\simed\OneDrive\Documentos\Taptap Projects\Taptap_Converter\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
+C:\Users\simed\OneDrive\Documentos\Taptap Projects\Taptap_Converter\wwwroot\lib\pdfium\include\fpdf_flatten.h
+C:\Users\simed\OneDrive\Documentos\Taptap Projects\Taptap_Converter\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+C:\Users\simed\OneDrive\Documentos\Taptap Projects\Taptap_Converter\wwwroot\lib\pdfium\include\fpdf_text.h
+C:\Users\simed\OneDrive\Documentos\Taptap Projects\Taptap_Converter\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
+C:\Users\simed\OneDrive\Documentos\Taptap Projects\Taptap_Converter\wwwroot\lib\jquery\dist\jquery.slim.js
+C:\Users\simed\OneDrive\Documentos\Taptap Projects\Taptap_Converter\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+C:\Users\simed\OneDrive\Documentos\Taptap Projects\Taptap_Converter\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+C:\Users\simed\OneDrive\Documentos\Taptap Projects\Taptap_Converter\wwwroot\lib\pdfium\include\fpdf_ppo.h
+C:\Users\simed\OneDrive\Documentos\Taptap Projects\Taptap_Converter\wwwroot\lib\pdfium\include\fpdf_formfill.h
+C:\Users\simed\OneDrive\Documentos\Taptap Projects\Taptap_Converter\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+C:\Users\simed\OneDrive\Documentos\Taptap Projects\Taptap_Converter\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
+C:\Users\simed\OneDrive\Documentos\Taptap Projects\Taptap_Converter\wwwroot\assets\favicon.ico
+C:\Users\simed\OneDrive\Documentos\Taptap Projects\Taptap_Converter\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
+C:\Users\simed\OneDrive\Documentos\Taptap Projects\Taptap_Converter\wwwroot\lib\pdfium\include\fpdf_attachment.h
+C:\Users\simed\OneDrive\Documentos\Taptap Projects\Taptap_Converter\wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
+C:\Users\simed\OneDrive\Documentos\Taptap Projects\Taptap_Converter\wwwroot\lib\jquery\dist\jquery.min.js
+C:\Users\simed\OneDrive\Documentos\Taptap Projects\Taptap_Converter\wwwroot\lib\jquery-validation\LICENSE.md
+C:\Users\simed\OneDrive\Documentos\Taptap Projects\Taptap_Converter\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+C:\Users\simed\OneDrive\Documentos\Taptap Projects\Taptap_Converter\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+C:\Users\simed\OneDrive\Documentos\Taptap Projects\Taptap_Converter\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
+C:\Users\simed\OneDrive\Documentos\Taptap Projects\Taptap_Converter\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
+C:\Users\simed\OneDrive\Documentos\Taptap Projects\Taptap_Converter\wwwroot\lib\pdfium\include\fpdf_progressive.h
+C:\Users\simed\OneDrive\Documentos\Taptap Projects\Taptap_Converter\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
+C:\Users\simed\OneDrive\Documentos\Taptap Projects\Taptap_Converter\wwwroot\lib\pdfium\include\fpdf_thumbnail.h
+C:\Users\simed\OneDrive\Documentos\Taptap Projects\Taptap_Converter\wwwroot\lib\pdfium\include\fpdf_fwlevent.h
+C:\Users\simed\OneDrive\Documentos\Taptap Projects\Taptap_Converter\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
+C:\Users\simed\OneDrive\Documentos\Taptap Projects\Taptap_Converter\wwwroot\lib\pdfium\include\fpdf_ext.h
+C:\Users\simed\OneDrive\Documentos\Taptap Projects\Taptap_Converter\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
+C:\Users\simed\OneDrive\Documentos\Taptap Projects\Taptap_Converter\wwwroot\lib\jquery-validation\dist\jquery.validate.js
+C:\Users\simed\OneDrive\Documentos\Taptap Projects\Taptap_Converter\wwwroot\lib\pdfium\include\cpp\fpdf_deleters.h
+C:\Users\simed\OneDrive\Documentos\Taptap Projects\Taptap_Converter\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
+C:\Users\simed\OneDrive\Documentos\Taptap Projects\Taptap_Converter\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
+C:\Users\simed\OneDrive\Documentos\Taptap Projects\Taptap_Converter\wwwroot\lib\jquery\dist\jquery.js
+C:\Users\simed\OneDrive\Documentos\Taptap Projects\Taptap_Converter\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
+C:\Users\simed\OneDrive\Documentos\Taptap Projects\Taptap_Converter\wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.js
+C:\Users\simed\OneDrive\Documentos\Taptap Projects\Taptap_Converter\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+C:\Users\simed\OneDrive\Documentos\Taptap Projects\Taptap_Converter\wwwroot\lib\pdfium\include\cpp\fpdf_scopers.h
+C:\Users\simed\OneDrive\Documentos\Taptap Projects\Taptap_Converter\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+C:\Users\simed\OneDrive\Documentos\Taptap Projects\Taptap_Converter\wwwroot\lib\pdfium\include\fpdf_signature.h
+C:\Users\simed\OneDrive\Documentos\Taptap Projects\Taptap_Converter\wwwroot\lib\pdfium\include\fpdf_javascript.h
+C:\Users\simed\OneDrive\Documentos\Taptap Projects\Taptap_Converter\wwwroot\lib\pdfium\include\fpdf_catalog.h
+C:\Users\simed\OneDrive\Documentos\Taptap Projects\Taptap_Converter\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
+C:\Users\simed\OneDrive\Documentos\Taptap Projects\Taptap_Converter\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+C:\Users\simed\OneDrive\Documentos\Taptap Projects\Taptap_Converter\wwwroot\lib\pdfium\include\fpdfview.h
+C:\Users\simed\OneDrive\Documentos\Taptap Projects\Taptap_Converter\wwwroot\lib\jquery\dist\jquery.slim.min.map
+C:\Users\simed\OneDrive\Documentos\Taptap Projects\Taptap_Converter\wwwroot\css\styles.css
+C:\Users\simed\OneDrive\Documentos\Taptap Projects\Taptap_Converter\wwwroot\lib\jquery\dist\jquery.min.map
+C:\Users\simed\OneDrive\Documentos\Taptap Projects\Taptap_Converter\wwwroot\lib\pdfium\include\fpdf_searchex.h
+C:\Users\simed\OneDrive\Documentos\Taptap Projects\Taptap_Converter\wwwroot\lib\pdfium\include\fpdf_doc.h
+C:\Users\simed\OneDrive\Documentos\Taptap Projects\Taptap_Converter\wwwroot\lib\pdfium\include\fpdf_dataavail.h
+C:\Users\simed\OneDrive\Documentos\Taptap Projects\Taptap_Converter\wwwroot\js\site.js
+C:\Users\simed\OneDrive\Documentos\Taptap Projects\Taptap_Converter\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
+C:\Users\simed\OneDrive\Documentos\Taptap Projects\Taptap_Converter\wwwroot\lib\bootstrap\dist\js\bootstrap.js
+C:\Users\simed\OneDrive\Documentos\Taptap Projects\Taptap_Converter\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
+C:\Users\simed\OneDrive\Documentos\Taptap Projects\Taptap_Converter\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+C:\Users\simed\OneDrive\Documentos\Taptap Projects\Taptap_Converter\wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.min.js
+C:\Users\simed\OneDrive\Documentos\Taptap Projects\Taptap_Converter\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+C:\Users\simed\OneDrive\Documentos\Taptap Projects\Taptap_Converter\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+C:\Users\simed\OneDrive\Documentos\Taptap Projects\Taptap_Converter\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+C:\Users\simed\OneDrive\Documentos\Taptap Projects\Taptap_Converter\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+C:\Users\simed\OneDrive\Documentos\Taptap Projects\Taptap_Converter\wwwroot\lib\pdfium\include\fpdf_edit.h
+C:\Users\simed\OneDrive\Documentos\Taptap Projects\Taptap_Converter\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+C:\Users\simed\OneDrive\Documentos\Taptap Projects\Taptap_Converter\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
+C:\Users\simed\OneDrive\Documentos\Taptap Projects\Taptap_Converter\wwwroot\lib\pdfium\include\fpdf_transformpage.h
+C:\Users\simed\OneDrive\Documentos\Taptap Projects\Taptap_Converter\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
+C:\Users\simed\OneDrive\Documentos\Taptap Projects\Taptap_Converter\wwwroot\js\scripts.js
+C:\Users\simed\OneDrive\Documentos\Taptap Projects\Taptap_Converter\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
+C:\Users\simed\OneDrive\Documentos\Taptap Projects\Taptap_Converter\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+C:\Users\simed\OneDrive\Documentos\Taptap Projects\Taptap_Converter\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
+C:\Users\simed\OneDrive\Documentos\Taptap Projects\Taptap_Converter\wwwroot\lib\pdfium\include\fpdf_save.h
+C:\Users\simed\OneDrive\Documentos\Taptap Projects\Taptap_Converter\wwwroot\lib\pdfium\include\fpdf_structtree.h
+C:\Users\simed\OneDrive\Documentos\Taptap Projects\Taptap_Converter\wwwroot\lib\jquery\LICENSE.txt
+C:\Users\simed\OneDrive\Documentos\Taptap Projects\Taptap_Converter\wwwroot\lib\pdfium\bin\pdfium.dll
+C:\Users\simed\OneDrive\Documentos\Taptap Projects\Taptap_Converter\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
+C:\Users\simed\OneDrive\Documentos\Taptap Projects\Taptap_Converter\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+C:\Users\simed\OneDrive\Documentos\Taptap Projects\Taptap_Converter\wwwroot\lib\pdfium\include\fpdf_sysfontinfo.h
+C:\Users\simed\OneDrive\Documentos\Taptap Projects\Taptap_Converter\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
+C:\Users\simed\OneDrive\Documentos\Taptap Projects\Taptap_Converter\wwwroot\css\site.css
+C:\Users\simed\OneDrive\Documentos\Taptap Projects\Taptap_Converter\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+C:\Users\simed\OneDrive\Documentos\Taptap Projects\Taptap_Converter\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+C:\Users\simed\OneDrive\Documentos\Taptap Projects\Taptap_Converter\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+C:\Users\simed\OneDrive\Documentos\Taptap Projects\Taptap_Converter\wwwroot\lib\jquery\dist\jquery.slim.min.js
+C:\Users\simed\OneDrive\Documentos\Taptap Projects\Taptap_Converter\wwwroot\favicon.ico
+C:\Users\simed\OneDrive\Documentos\Taptap Projects\Taptap_Converter\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
+C:\Users\simed\OneDrive\Documentos\Taptap Projects\Taptap_Converter\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+C:\Users\simed\OneDrive\Documentos\Taptap Projects\Taptap_Converter\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
+C:\Users\simed\OneDrive\Documentos\Taptap Projects\Taptap_Converter\wwwroot\lib\jquery-validation\dist\additional-methods.js
+C:\Users\simed\OneDrive\Documentos\Taptap Projects\Taptap_Converter\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+wwwroot\assets\favicon.ico
+wwwroot\assets\img\bg-masthead.jpg
+wwwroot\assets\img\portfolio\fullsize\1.jpg
+wwwroot\assets\img\portfolio\fullsize\2.jpg
+wwwroot\assets\img\portfolio\fullsize\3.jpg
+wwwroot\assets\img\portfolio\fullsize\4.jpg
+wwwroot\assets\img\portfolio\fullsize\5.jpg
+wwwroot\assets\img\portfolio\fullsize\6.jpg
+wwwroot\assets\img\portfolio\thumbnails\1.jpg
+wwwroot\assets\img\portfolio\thumbnails\2.jpg
+wwwroot\assets\img\portfolio\thumbnails\3.jpg
+wwwroot\assets\img\portfolio\thumbnails\4.jpg
+wwwroot\assets\img\portfolio\thumbnails\5.jpg
+wwwroot\assets\img\portfolio\thumbnails\6.jpg
+wwwroot\css\site.css
+wwwroot\css\styles.css
+wwwroot\favicon.ico
+wwwroot\js\scripts.js
+wwwroot\js\site.js
+wwwroot\lib\bootstrap\dist\css\bootstrap.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+wwwroot\lib\bootstrap\LICENSE
+wwwroot\lib\jquery\dist\jquery.js
+wwwroot\lib\jquery\dist\jquery.min.js
+wwwroot\lib\jquery\dist\jquery.min.map
+wwwroot\lib\jquery\dist\jquery.slim.js
+wwwroot\lib\jquery\dist\jquery.slim.min.js
+wwwroot\lib\jquery\dist\jquery.slim.min.map
+wwwroot\lib\jquery\LICENSE.txt
+wwwroot\lib\jquery-validation\dist\additional-methods.js
+wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+wwwroot\lib\jquery-validation\dist\jquery.validate.js
+wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+wwwroot\lib\jquery-validation\LICENSE.md
+wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.js
+wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.min.js
+wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
+wwwroot\lib\pdfium\args.gn
+wwwroot\lib\pdfium\bin\pdfium.dll
+wwwroot\lib\pdfium\include\cpp\fpdf_deleters.h
+wwwroot\lib\pdfium\include\cpp\fpdf_scopers.h
+wwwroot\lib\pdfium\include\fpdf_annot.h
+wwwroot\lib\pdfium\include\fpdf_attachment.h
+wwwroot\lib\pdfium\include\fpdf_catalog.h
+wwwroot\lib\pdfium\include\fpdf_dataavail.h
+wwwroot\lib\pdfium\include\fpdf_doc.h
+wwwroot\lib\pdfium\include\fpdf_edit.h
+wwwroot\lib\pdfium\include\fpdf_ext.h
+wwwroot\lib\pdfium\include\fpdf_flatten.h
+wwwroot\lib\pdfium\include\fpdf_formfill.h
+wwwroot\lib\pdfium\include\fpdf_fwlevent.h
+wwwroot\lib\pdfium\include\fpdf_javascript.h
+wwwroot\lib\pdfium\include\fpdf_ppo.h
+wwwroot\lib\pdfium\include\fpdf_progressive.h
+wwwroot\lib\pdfium\include\fpdf_save.h
+wwwroot\lib\pdfium\include\fpdf_searchex.h
+wwwroot\lib\pdfium\include\fpdf_signature.h
+wwwroot\lib\pdfium\include\fpdf_structtree.h
+wwwroot\lib\pdfium\include\fpdf_sysfontinfo.h
+wwwroot\lib\pdfium\include\fpdf_text.h
+wwwroot\lib\pdfium\include\fpdf_thumbnail.h
+wwwroot\lib\pdfium\include\fpdf_transformpage.h
+wwwroot\lib\pdfium\include\fpdfview.h
+wwwroot\lib\pdfium\lib\pdfium.dll.lib
+wwwroot\lib\pdfium\LICENSE
+wwwroot\lib\pdfium\PDFiumConfig.cmake
+wwwroot\lib\pdfium\VERSION
+wwwroot\lib\pdfium-v8-win-x64.tgz
+wwwroot\uploads\20250117-190520.jpg
+wwwroot\uploads\20250117-190520.pdf
+wwwroot\uploads\20250117-190520.zip
+wwwroot\uploads\20250117-190520\page_1.jpg
+wwwroot\uploads\20250117-190520\page_2.jpg
+wwwroot\uploads\20250128-205251.jpg
+wwwroot\uploads\20250128-205251.pdf
+wwwroot\uploads\CPF.jpg
+wwwroot\uploads\CPF.pdf
+wwwroot\uploads\CPF.zip
+wwwroot\uploads\CPF\page_1.jpg
+wwwroot\uploads\WhatsApp Scan 2025-02-10 at 22.25.51.jpg
+wwwroot\uploads\WhatsApp Scan 2025-02-10 at 22.25.51.pdf

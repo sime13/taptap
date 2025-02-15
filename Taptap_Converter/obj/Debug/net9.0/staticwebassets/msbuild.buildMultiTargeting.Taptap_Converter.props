@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Taptap_Converter.props" />
+</Project>

@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\simed\\OneDrive\\Documentos\\Taptap Projects\\Taptap_Converter\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4E205C83-8D27-4815-9501-2C6CD7A645B5}|Taptap_Converter.csproj|c:\\users\\simed\\onedrive\\documentos\\taptap projects\\taptap_converter\\views\\home\\convertpdftojpg.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4E205C83-8D27-4815-9501-2C6CD7A645B5}|Taptap_Converter.csproj|solutionrelative:views\\home\\convertpdftojpg.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E205C83-8D27-4815-9501-2C6CD7A645B5}|Taptap_Converter.csproj|c:\\users\\simed\\onedrive\\documentos\\taptap projects\\taptap_converter\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4E205C83-8D27-4815-9501-2C6CD7A645B5}|Taptap_Converter.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E205C83-8D27-4815-9501-2C6CD7A645B5}|Taptap_Converter.csproj|c:\\users\\simed\\onedrive\\documentos\\taptap projects\\taptap_converter\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4E205C83-8D27-4815-9501-2C6CD7A645B5}|Taptap_Converter.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E205C83-8D27-4815-9501-2C6CD7A645B5}|Taptap_Converter.csproj|c:\\users\\simed\\onedrive\\documentos\\taptap projects\\taptap_converter\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E205C83-8D27-4815-9501-2C6CD7A645B5}|Taptap_Converter.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E205C83-8D27-4815-9501-2C6CD7A645B5}|Taptap_Converter.csproj|c:\\users\\simed\\onedrive\\documentos\\taptap projects\\taptap_converter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E205C83-8D27-4815-9501-2C6CD7A645B5}|Taptap_Converter.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\simed\\OneDrive\\Documentos\\Taptap Projects\\Taptap_Converter\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\simed\\OneDrive\\Documentos\\Taptap Projects\\Taptap_Converter\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABEAAAAAAAAAAAAswDcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-15T17:10:07.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\simed\\OneDrive\\Documentos\\Taptap Projects\\Taptap_Converter\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\simed\\OneDrive\\Documentos\\Taptap Projects\\Taptap_Converter\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T16:15:46.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\simed\\OneDrive\\Documentos\\Taptap Projects\\Taptap_Converter\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\simed\\OneDrive\\Documentos\\Taptap Projects\\Taptap_Converter\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAEEAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-15T04:18:52.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConvertPdftoJpg.cshtml",
+              "DocumentMoniker": "C:\\Users\\simed\\OneDrive\\Documentos\\Taptap Projects\\Taptap_Converter\\Views\\Home\\ConvertPdftoJpg.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\ConvertPdftoJpg.cshtml",
+              "ToolTip": "C:\\Users\\simed\\OneDrive\\Documentos\\Taptap Projects\\Taptap_Converter\\Views\\Home\\ConvertPdftoJpg.cshtml*",
+              "RelativeToolTip": "Views\\Home\\ConvertPdftoJpg.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-15T04:06:00.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\simed\\OneDrive\\Documentos\\Taptap Projects\\Taptap_Converter\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\simed\\OneDrive\\Documentos\\Taptap Projects\\Taptap_Converter\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAowG4AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T04:00:22.895Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
